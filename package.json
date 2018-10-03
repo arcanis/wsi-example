@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "webpack-subresource-integrity": "^1.1.0-rc.6"
+  },
+  "installConfig": {
+    "pnp": true
+  }
+}
